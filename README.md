@@ -10,9 +10,11 @@
 
 
 
-1. Pls Run Leave Application Back-end first, then use admin to login
+1. Use VS code to open this Front-end folder, then Terminal Menu>New Terminal>npm start
 
-2. Follow the step as below gif
+2. Pls Run Leave Application Back-end first, then use admin to login
+
+3. Follow the step as below gif
 
    ![Step](.\Step.gif)
 
